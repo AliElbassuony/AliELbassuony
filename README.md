@@ -5,7 +5,11 @@
 <div align="center">
 
 **"You can be what you can see"**
+ 
+ [![Repos Badge](https://badges.pufler.dev/repos/AliElbassuony)](https://badges.pufler.dev)
+<img src="https://komarev.com/ghpvc/?username=AliElbassuony&label=Profile%20views&color=0e75b6&style=flat" alt="AliElbassuony" />
 
+</div>
 <!--
 **AliElbassuony/AliELbassuony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
