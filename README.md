@@ -1,4 +1,3 @@
-## Hi there, I'm [Ali!](https://www.linkedin.com/in/ali-elbassuony-4096851a2/) 👋
 <p align="center">
  <img src="https://github.com/AliElbassuony/AliELbassuony/blob/main/gifs/photo1.gif" alt="Coder GIF" width="500" height="400"/>
 </p>
@@ -7,8 +6,17 @@
 **"You can be what you can see"**
  
  [![Repos Badge](https://badges.pufler.dev/repos/AliElbassuony)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=AliElbassuony&label=Profile%20views&color=0e75b6&style=flat" alt="AliElbassuony" />
+ <img src="https://komarev.com/ghpvc/?username=AliElbassuony&label=Profile%20views&color=0e75b6&style=flat" alt="AliElbassuony" />
 
+ 
+</div>
+
+# Hi there, I'm [Ali!](https://www.linkedin.com/in/ali-elbassuony-4096851a2/) 👋
+
+<br/>
+
+<div align="center">
+ 
 </div>
 <!--
 **AliElbassuony/AliELbassuony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
