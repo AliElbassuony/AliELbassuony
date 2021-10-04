@@ -1,4 +1,4 @@
-## Hi there, I'm <a href="https://www.linkedin.com/in/ali-elbassuony-4096851a2/" target="_blank">Ali!</a> 👋
+## Hi there, I'm [Ali!] (https://www.linkedin.com/in/ali-elbassuony-4096851a2/) 👋
 
 <!--
 **AliElbassuony/AliELbassuony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
