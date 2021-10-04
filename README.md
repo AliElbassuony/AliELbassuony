@@ -1,4 +1,9 @@
 ## Hi there, I'm [Ali!](https://www.linkedin.com/in/ali-elbassuony-4096851a2/) 👋
+<p align="center">
+  
+ <img src="" alt="Coder GIF" width="500" height="400"/>
+  
+</p>
 
 <!--
 **AliElbassuony/AliELbassuony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
