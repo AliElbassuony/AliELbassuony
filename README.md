@@ -57,7 +57,9 @@
  
 <h3 align="left">Other</h3>
 <p>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="Bash" width="40" height="40"/> </a>
 </p>
 <!--
 **AliElbassuony/AliELbassuony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
