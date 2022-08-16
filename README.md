@@ -10,7 +10,7 @@
  
 </div>
 
-# Hi there, I'm [Ali!](https://www.linkedin.com/in/ali-elbassuony-4096851a2/) 👋
+# Hi, I'm [Ali!](https://www.linkedin.com/in/ali-elbassuony-4096851a2/) 👋
 
 <br/>
 
